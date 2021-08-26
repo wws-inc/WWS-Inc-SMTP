@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\Test_SMTP.csproj": {}
+    "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\Test_SMTP.csproj": {}
   },
   "projects": {
-    "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\Test_SMTP.csproj": {
+    "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\Test_SMTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\Test_SMTP.csproj",
+        "projectUniqueName": "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\Test_SMTP.csproj",
         "projectName": "Test_SMTP",
-        "projectPath": "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\Test_SMTP.csproj",
+        "projectPath": "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\Test_SMTP.csproj",
         "packagesPath": "C:\\Users\\FerdinandCodinera\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\obj\\",
+        "outputPath": "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FerdinandCodinera\\AppData\\Roaming\\NuGet\\NuGet.Config",

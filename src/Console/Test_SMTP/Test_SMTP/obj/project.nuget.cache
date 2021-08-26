@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "73dmpVulN46NXpBwZHG3pNHSca4bLxBcnPtkHJtHTRFQJdPV9JTrB0zw5SBe6nm6JfOLAlENiypPOvEIZLW0EA==",
+  "dgSpecHash": "Dp2LAxXMH3SHjgVYZaXh+lTgf3tgVTHzHFuN7Lk8LnuPCCJOCU21ZExXSUjruJGfQO2/jSczu8mr3h+r6yJeZw==",
   "success": true,
-  "projectFilePath": "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\Test_SMTP.csproj",
+  "projectFilePath": "C:\\Repo\\GitHub\\WWS-Inc-SMTP\\WWS-Inc-SMTP\\src\\Console\\Test_SMTP\\Test_SMTP\\Test_SMTP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
