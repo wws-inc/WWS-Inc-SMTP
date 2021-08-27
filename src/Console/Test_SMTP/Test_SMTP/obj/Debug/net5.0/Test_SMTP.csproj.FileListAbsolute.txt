@@ -1,0 +1,16 @@
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\bin\Debug\net5.0\Test_SMTP.exe
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\bin\Debug\net5.0\Test_SMTP.deps.json
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\bin\Debug\net5.0\Test_SMTP.runtimeconfig.json
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\bin\Debug\net5.0\Test_SMTP.runtimeconfig.dev.json
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\bin\Debug\net5.0\Test_SMTP.dll
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\bin\Debug\net5.0\ref\Test_SMTP.dll
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\bin\Debug\net5.0\Test_SMTP.pdb
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\obj\Debug\net5.0\Test_SMTP.csproj.AssemblyReference.cache
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\obj\Debug\net5.0\Test_SMTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\obj\Debug\net5.0\Test_SMTP.AssemblyInfoInputs.cache
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\obj\Debug\net5.0\Test_SMTP.AssemblyInfo.cs
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\obj\Debug\net5.0\Test_SMTP.csproj.CoreCompileInputs.cache
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\obj\Debug\net5.0\Test_SMTP.dll
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\obj\Debug\net5.0\ref\Test_SMTP.dll
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\obj\Debug\net5.0\Test_SMTP.pdb
+C:\Repo\GitHub\WWS-Inc-SMTP\WWS-Inc-SMTP\src\Console\Test_SMTP\Test_SMTP\obj\Debug\net5.0\Test_SMTP.genruntimeconfig.cache
