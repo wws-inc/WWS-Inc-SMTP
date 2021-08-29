@@ -1,0 +1,14 @@
+
+*.dll
+*.pdb
+*.editorconfig
+*.cache
+*.dll
+*.dll
+*.pdb
+*.exe
+*.user
+*.props
+*.dll
+src/Console/Test_SMTP/Test_SMTP/obj/Debug/net5.0/Test_SMTP.dll
+src/Console/Test_SMTP/.vs/Test_SMTP/v16/.suo
